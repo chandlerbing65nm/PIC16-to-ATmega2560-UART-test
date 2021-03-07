@@ -1,0 +1,14 @@
+[PROJECT]
+Target=build\default\production\UART_test.hex
+Processor_Text=PIC16F1789
+CCSVersion=5.076
+Compiler=PCM
+[Target Data]
+FileList=UART_test.c
+[build\default\production\UART_test.c]
+Type=4
+[mru-list]
+1=build\default\production\UART_test.c
+[Units]
+Count=1
+1=UART_test (main)

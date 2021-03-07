@@ -1,0 +1,12 @@
+Compiling C:\Users\chand\Documents\CCS C Projects\UART_test.X\UART_test on 07-Mar-21 at 16:32
+C:\Users\chand\Documents\CCS C Projects\UART_test.X\PIC16F1789_registers.h:27:2:  Warning#238  Duplicate #locate
+C:\Users\chand\Documents\CCS C Projects\UART_test.X\PIC16F1789_registers.h:192:2:  Warning#238  Duplicate #locate
+C:\Users\chand\Documents\CCS C Projects\UART_test.X\PIC16F1789_registers.h:203:2:  Warning#238  Duplicate #locate
+C:\Users\chand\Documents\CCS C Projects\UART_test.X\PIC16F1789_registers.h:232:2:  Warning#238  Duplicate #locate
+C:\Users\chand\Documents\CCS C Projects\UART_test.X\PIC16F1789_registers.h:234:2:  Warning#238  Duplicate #locate
+C:\Users\chand\Documents\CCS C Projects\UART_test.X\PIC16F1789_registers.h:398:2:  Warning#238  Duplicate #locate
+C:\Users\chand\Documents\CCS C Projects\UART_test.X\PIC16F1789_registers.h:416:2:  Warning#238  Duplicate #locate
+C:\Users\chand\Documents\CCS C Projects\UART_test.X\PIC16F1789_registers.h:434:2:  Warning#238  Duplicate #locate
+      Memory usage:   ROM=1%      RAM=0% - 1%
+      0 Errors,  8 Warnings.
+Build Successful.
